@@ -1,4 +1,4 @@
-<h1><b>PESQUINSA BINÁRIA | PYTHON</b></h1>
+<h1><b>PESQUISA BINÁRIA | PYTHON</b></h1>
 
 Olá! 👋
 Nesse repositorio os senhores vão encontrar uma pesquisa binária realizada em python com base na lista do usuário.
